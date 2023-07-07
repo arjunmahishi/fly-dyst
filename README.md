@@ -15,3 +15,10 @@ tar -xzvf maelstrom.tar.bz2
 cd maelstrom
 # copy the binary and the /lib to system path
 ```
+
+## Running the tests for each solution 
+
+```bash
+cd <solution dir>
+make test
+```
